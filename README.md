@@ -1,2 +1,3 @@
-# Stock-Market
-The stock market is a platform where shares of publicly traded companies are bought and sold. It facilitates capital raising for companies and investment opportunities for individuals. Prices fluctuate based on supply, demand, and economic factors, reflecting the financial health and prospects of businesses.
+# Knowledge of Stock-Market and Technical indicators
+
+In this project, explore the stock market as a trading platform for company shares, and analyze how technical indicators like ADX and DMI help forecast trends and guide investment decisions based on price and volume data.
